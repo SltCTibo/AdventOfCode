@@ -5,3 +5,5 @@
 ## Day 02: Red-Nosed Reports [{}](./day02/)
 
 ## Day 03: Mull It Over [{}](./day03/)
+
+## Day 04: Ceres Search [{}](./day04/)
