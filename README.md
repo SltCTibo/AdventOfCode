@@ -13,3 +13,7 @@
 ## Day 06: Guard Gallivant [{}](./day06/)
 
 ## Day 07: Bridge Repair [{}](./day07/)
+
+## Day 08: Resoannt Collinearity [{}](./day08/)
+
+## Day 09: Disk Fragmenter [{}](./day09/)
