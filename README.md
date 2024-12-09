@@ -11,3 +11,5 @@
 ## Day 05: Print Queue [{}](./day05/)
 
 ## Day 06: Guard Gallivant [{}](./day06/)
+
+## Day 07: Bridge Repair [{}](./day07/)
