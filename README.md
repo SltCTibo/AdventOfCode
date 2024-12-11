@@ -17,3 +17,7 @@
 ## Day 08: Resoannt Collinearity [{}](./day08/)
 
 ## Day 09: Disk Fragmenter [{}](./day09/)
+
+## Day 10: Hoof It [{}](./day10/)
+
+## Day 11: Plutonian Pebbles [{}](./day11/)
