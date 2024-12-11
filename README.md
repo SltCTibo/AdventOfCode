@@ -1,23 +1,23 @@
 # AdventOfCode
 
-## Day 01: Historian Hysteria [{}](./day01/)
+## Day 01: Historian Hysteria [{go}](./day01/Instructions.md)
 
-## Day 02: Red-Nosed Reports [{}](./day02/)
+## Day 02: Red-Nosed Reports [{go}](./day02/Instructions.md)
 
-## Day 03: Mull It Over [{}](./day03/)
+## Day 03: Mull It Over [{go}](./day03/Instructions.md)
 
-## Day 04: Ceres Search [{}](./day04/)
+## Day 04: Ceres Search [{go}](./day04/Instructions.md)
 
-## Day 05: Print Queue [{}](./day05/)
+## Day 05: Print Queue [{go}](./day05/Instructions.md)
 
-## Day 06: Guard Gallivant [{}](./day06/)
+## Day 06: Guard Gallivant [{go}](./day06/Instructions.md)
 
-## Day 07: Bridge Repair [{}](./day07/)
+## Day 07: Bridge Repair [{go}](./day07/Instructions.md)
 
-## Day 08: Resoannt Collinearity [{}](./day08/)
+## Day 08: Resoannt Collinearity [{go}](./day08/Instructions.md)
 
-## Day 09: Disk Fragmenter [{}](./day09/)
+## Day 09: Disk Fragmenter [{go}](./day09/Instructions.md)
 
-## Day 10: Hoof It [{}](./day10/)
+## Day 10: Hoof It [{go}](./day10/Instructions.md)
 
-## Day 11: Plutonian Pebbles [{}](./day11/)
+## Day 11: Plutonian Pebbles [{go}](./day11/Instructions.md)
