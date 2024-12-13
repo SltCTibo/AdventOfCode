@@ -21,3 +21,5 @@
 ## Day 10: Hoof It [{go}](./day10/Instructions.md)
 
 ## Day 11: Plutonian Pebbles [{go}](./day11/Instructions.md)
+
+## Day 12: Garden Groups [{go}](./day12/Instructions.md)
