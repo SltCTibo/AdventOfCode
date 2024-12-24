@@ -1,4 +1,4 @@
-# AdventOfCode
+#AdventOfCode
 
 ## Day 01: Historian Hysteria [{go}](./day01/Instructions.md)
 
@@ -23,3 +23,11 @@
 ## Day 11: Plutonian Pebbles [{go}](./day11/Instructions.md)
 
 ## Day 12: Garden Groups [{go}](./day12/Instructions.md)
+
+## Day 13: Claw Contraption [{go}](./day13/Instructions.md)
+
+## Day 14: Restroom Redoubt [{go}](./day14/Instructions.md)
+
+## Day 15: Warehouse Woes [go](./day15/Instructions.md)
+
+## Day 16: Reindeer Maze [go](./day16/Instructions.md)
