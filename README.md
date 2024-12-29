@@ -33,3 +33,5 @@
 ## Day 16: Reindeer Maze [go](./day16/Instructions.md)
 
 ## Day 17: Chronospatial Computer [go](./day17/Instructions.md)
+
+## Day 18: RAM Run [go](./day18/Instructions.md)
