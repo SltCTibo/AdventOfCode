@@ -31,3 +31,5 @@
 ## Day 15: Warehouse Woes [go](./day15/Instructions.md)
 
 ## Day 16: Reindeer Maze [go](./day16/Instructions.md)
+
+## Day 17: Chronospatial Computer [go](./day17/Instructions.md)
