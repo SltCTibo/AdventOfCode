@@ -37,3 +37,5 @@
 ## Day 18: RAM Run [go](./day18/Instructions.md)
 
 ## Day 19: Linen Layout [go](./day19/Instructions.md)
+
+## Day 20: Race Condition [go](./day20/Instructions.md)
