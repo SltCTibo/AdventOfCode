@@ -39,3 +39,7 @@
 ## Day 19: Linen Layout [go](./day19/Instructions.md)
 
 ## Day 20: Race Condition [go](./day20/Instructions.md)
+
+## Day 21: Keypad Conundrum [go](./day21/Instructions.md)
+
+## Day 22: Monkey Market [go](./day22/Instructions.md)
